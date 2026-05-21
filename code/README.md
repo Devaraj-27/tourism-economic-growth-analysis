@@ -1,1 +1,1 @@
-Stata scripts and econometric model implementation
+Stata scripts and econometric model implementation.
